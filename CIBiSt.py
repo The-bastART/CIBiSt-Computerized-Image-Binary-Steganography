@@ -1,6 +1,6 @@
 #####################################################################################
 #                                                                                   #
-#           +++CIBiSt - Computerized Image Binary Stenography+++                    #
+#           +++CIBiSt - Computerized Image Binary Steganography+++                  #
 #                                                                                   #
 #   by bastART                                                                      #
 #   2015        Python 2.7.10                                                       #
