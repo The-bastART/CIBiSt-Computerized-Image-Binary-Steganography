@@ -1,0 +1,13 @@
+65-A: Please enter the size of a bit!
+66-B: Please enter an image width!
+67-C: Please enter an image height!
+68-D: Please enter your message!
+69-E: Please enter the path for your image!
+70-F: Please enter a message with # charachters (# Bits) max!
+71-G: This file doesn't exist!
+72-H: Please enter a path to the RSA Public Key or disable the RSA option!
+73-I: This RSA Public Key file doesn't exist!
+74-J: Please enter the Length of the RSA Key!
+75-K: Please enter the number of keys which should be generated!
+76-L: Please enter a path for the Public Key!
+77-M: Please enter a path for the Private Key!
