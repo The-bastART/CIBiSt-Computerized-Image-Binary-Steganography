@@ -1,19 +1,19 @@
 #####################################################################################
-#                                                                                                                                                                                           #
-#           +++CIBiSt - Computerized Image Binary Stenography+++                                                                   #
-#                                                                                                                                                                                           #
-#   by bastART                                                                                                                                                                  #
-#   2015        Python 2.7.10                                                                                                                                          #
-#   Facebook Page:      https://www.facebook.com/bastartcottbus                                                             #
-#   YouTube Channel:    https://www.youtube.com/channel/UChBq4swt76NsV_BdXUgltBg            #
-#                                                                                                                                                                                          #
-#   You are allowed to copy, share, derivate and use (commercial and                                                      #
-#   non-commercial) the software and source code under the condition                                                  #
-#   that you give me credits!                                                                                                                                      #
-#                                                                                                                                                                                          #
-#   Thank you and have fun =)                                                                                                                                    #
-#                     Fight For Your Digital Rights!                                                                                                            #
-#                                                                                                                                                                                          #
+#                                                                                   #
+#           +++CIBiSt - Computerized Image Binary Stenography+++                    #
+#                                                                                   #
+#   by bastART                                                                      #
+#   2015        Python 2.7.10                                                       #
+#   Facebook Page:      https://www.facebook.com/bastartcottbus                     #
+#   YouTube Channel:    https://www.youtube.com/channel/UChBq4swt76NsV_BdXUgltBg    #
+#                                                                                   #
+#   You are allowed to copy, share, derivate and use (commercial and                #
+#   non-commercial) the software and source code under the condition                #
+#   that you give me credits!                                                       #
+#                                                                                   #
+#   Thank you and have fun =)                                                       #
+#                     Fight For Your Digital Rights!                                #
+#                                                                                   #
 #####################################################################################
 
 #imports
@@ -32,7 +32,6 @@ from random import randint
 import math
 import rsa
 
-#        J:\steganography\P1330066.JPG
 
 main=Tkinter.Tk()           #start
 main.wm_title("CIBiSt")            #window title
